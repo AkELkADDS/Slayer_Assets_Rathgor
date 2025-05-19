@@ -1,0 +1,358 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+   Mon 05/19/2025  7:45:10.76 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\048d1e24-9648-d210-0910-66bdd9ecd9f6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\50d9388a-1b02-e60e-2053-684055333cb6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\51a690d7-e72f-4137-b345-8d98fc02f81a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\80f52026-f4f8-41c2-8ab8-6961198fef06.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\8f11e68c-ec01-46ab-9de5-afab1769b8e4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\e6fb7eb3-1cd4-ed33-528a-ad3c31ae19f7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaC.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 13 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaC.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 3 
+ 
+[LOG] Total files found across all folders: 23 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 to Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using destination: Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:45:14 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\meta.lsx100%  
+	    New File  		   6.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\thumbnail.png  7%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    6.30 m    6.30 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3304925000 Bytes/sec.
+   Speed :           189109.325 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:45:14 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 to "Editor\Mods"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using destination: Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:45:16 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   48520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    47.3 k    47.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:45:16 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 to Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using destination: Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:45:17 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7870	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\meta.lsx100%  
+	    New File  		   6.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\GUI\metadata.lsf100%  
+	    New File  		    3859	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    6.31 m    6.31 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3311010500 Bytes/sec.
+   Speed :           189457.540 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:45:17 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 to Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using destination: Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:45:19 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   35955	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\048d1e24-9648-d210-0910-66bdd9ecd9f6.lsf100%  
+	    New File  		    2787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\50d9388a-1b02-e60e-2053-684055333cb6.lsf100%  
+	    New File  		    2772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\51a690d7-e72f-4137-b345-8d98fc02f81a.lsf100%  
+	    New File  		    2786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\80f52026-f4f8-41c2-8ab8-6961198fef06.lsf100%  
+	    New File  		    2786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\8f11e68c-ec01-46ab-9de5-afab1769b8e4.lsf100%  
+	    New File  		    2773	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Content\[PAK]_Slayer_Assets_Rathgor\e6fb7eb3-1cd4-ed33-528a-ad3c31ae19f7.lsf100%  
+	    New File  		  263464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_L.xml100%  
+	    New File  		  263464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_R.xml100%  
+	    New File  		  243768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaC.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaC.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        11        11         1         0         0         0
+   Files :        13        13         0         0         0         0
+   Bytes :   804.6 k   804.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            51497937 Bytes/sec.
+   Speed :            2946.735 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:45:19 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 13 
+[DEBUG] Successfully copied files: 13 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 
+      Total files: 13 
+      Copied successfully: 13 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 to "Generated\Public"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[DEBUG] Using destination: Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:45:21 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+     Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  263464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  263464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  243768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409\Vexa\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Vexa\Jaw\DGB_EL_MRath_Jaw_Vexa_MD_VexaC.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   752.6 k   752.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            64224666 Bytes/sec.
+   Speed :            3674.964 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:45:21 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 13 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 23 
+[SUMMARY] Total files successfully copied: 46 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

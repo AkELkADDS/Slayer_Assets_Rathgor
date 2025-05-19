@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="62a82780-e0a0-ed59-77e6-096d11d38409"/>
+            <attribute id="Name" type="LSString" value="Slayer_Assets_Rathgor"/>
+            <attribute id="UUID" type="LSString" value="7e9a6d56-fccb-94a5-f0c2-03c93efd23ec"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
